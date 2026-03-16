@@ -1,0 +1,10 @@
+date,channel,campaign,spend,clicks,signups
+2024-01-01,google_ads,brand_search,120,240,30
+2024-01-01,google_ads,competitor_search,200,300,25
+2024-01-01,linkedin_ads,b2b_leads,350,400,40
+2024-01-02,google_ads,brand_search,100,220,28
+2024-01-02,google_ads,competitor_search,180,280,20
+2024-01-02,linkedin_ads,b2b_leads,370,420,45
+2024-01-03,google_ads,brand_search,140,260,35
+2024-01-03,google_ads,competitor_search,210,320,30
+2024-01-03,linkedin_ads,b2b_leads,390,450,50
