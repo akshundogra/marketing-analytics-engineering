@@ -1,0 +1,6 @@
+campaign_id,campaign_name,date,spend,clicks,impressions
+1,Brand Search,2025-01-01,500,800,12000
+2,Non Brand Search,2025-01-01,700,900,15000
+3,Competitor Campaign,2025-01-01,400,500,9000
+4,Brand Search,2025-01-02,520,830,12500
+5,Non Brand Search,2025-01-02,750,920,15500

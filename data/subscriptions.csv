@@ -1,0 +1,7 @@
+subscription_id,date,channel,paid_users,mrr
+1,2025-01-01,Google Ads,15,1500
+2,2025-01-01,LinkedIn Ads,8,800
+3,2025-01-01,Organic Search,10,1000
+4,2025-01-02,Google Ads,18,1800
+5,2025-01-02,LinkedIn Ads,9,900
+6,2025-01-02,Organic Search,12,1200
