@@ -1,0 +1,10 @@
+date,platform,campaign,impressions,clicks,cost,conversions
+2025-01-01,google,brand_search,12000,850,420,120
+2025-01-01,google,competitor,9000,500,390,60
+2025-01-01,meta,lead_gen_campaign,15000,700,350,40
+2025-01-02,google,brand_search,13000,900,430,130
+2025-01-02,google,competitor,8000,450,370,55
+2025-01-02,meta,lead_gen_campaign,14000,680,340,38
+2025-01-03,google,brand_search,12500,880,410,125
+2025-01-03,google,competitor,9500,520,400,65
+2025-01-03,meta,lead_gen_campaign,16000,720,360,42
