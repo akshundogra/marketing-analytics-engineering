@@ -111,5 +111,6 @@ marketing-data-engineering/
 
 ## Connect
 
+- Portfolio: [akshundogra.com](https://akshundogra.com/?utm_source=github&utm_term=marketing-analytics-engineering-readme)
 - LinkedIn: [linkedin.com/in/akshundogra](https://www.linkedin.com/in/akshundogra)
 - YouTube: [youtube.com/@akshundogra](https://www.youtube.com/@akshundogra)
